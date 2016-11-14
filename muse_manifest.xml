@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://whoissualeh.000webhostapp.com" resolutions="1x" timestamp="1479126016128">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://smsali97.github.io/whoissualeh" resolutions="1x" timestamp="1479135468975">
   <folder name="css">
     <file name="site_global.css" crc="4280322267"/>
     <file name="master_a-master.css" crc="4226039582" ref="index"/>
-    <file name="index.css" crc="4084584681" ref="index"/>
-    <file name="iefonts_index.css" crc="4185480963" ref="index"/>
+    <file name="index.css" crc="4011806613" ref="index"/>
+    <file name="iefonts_index.css" crc="4077927341" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="cv-syedmohammadsualehali.pdf" crc="4254157824" seo="true" mt="1478921779000"/>
@@ -65,5 +65,5 @@
     <file name="u1385-17-fs.png" crc="51175883" ref="index"/>
     <file name="msa2.png" crc="4162340717" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="392309893" seo="true" mt="1479126001435" redirect="true"/>
+  <file name="index.html" crc="263472649" seo="true" mt="1479135462442" redirect="true"/>
 </manifest>
