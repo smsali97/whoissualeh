@@ -1,0 +1,102 @@
+#u531
+{
+	background: -webkit-gradient(linear, left center, right center, from(#5B0C00),color-stop(100%, #360D00));
+	background: -webkit-linear-gradient(left,#5B0C00 ,#360D00 100%);
+	background: linear-gradient(to right,#5B0C00 ,#360D00 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF5B0C00, endColorstr=#FF360D00, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF5B0C00', endColorstr='#FF360D00', GradientType=1)";
+	background-size: 100% auto;
+}
+
+#u532-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	font-size: 45px;
+	color: #FFF0E6;
+	line-height: 54px;
+	text-align: center;
+	font-family: patua-one, serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.js #u532-4.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u671-4
+{
+	background-color: transparent;
+	font-size: 45px;
+	color: #FFF0E6;
+	line-height: 54px;
+	text-align: center;
+	font-family: patua-one, serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.js #u671-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1434
+{
+	vertical-align: top;
+	background: transparent url("../images/u1434.png") no-repeat 0px 0px;
+}
+
+#u1434:hover
+{
+	background: transparent url("../images/u1434-r.png") no-repeat 0px 0px;
+}
+
+#u1444
+{
+	background-color: #000A0C;
+}
+
+#u533,#u1447
+{
+	background-color: transparent;
+}
+
+#u1457-4
+{
+	background-color: transparent;
+	color: #FBB03B;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+}
+
+#u1464,#u1469
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1474-4
+{
+	background-color: transparent;
+	color: #A3003A;
+	font-size: 18px;
+	text-align: left;
+	line-height: 22px;
+	font-family: berkshire-swash, cursive;
+	font-weight: 400;
+}
+
+
